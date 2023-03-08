@@ -1,19 +1,25 @@
-# movies
+# Flutter Movies
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Mobile application to see movies inforamtion. The information is fetched from the movie database API. The application is developed for IOS and Android using Flutter for cross-platform
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Card swiper with on display movies
+- [x] Card Slider with popular movies
+- [x] Search Movie
+- [x] Movies details
+- [x] Card Slider with movie cast
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Flutter
+- [x] Rest API request
+- [x] Provider
+- [x] External Libraries
+- [x] Stateless Widget
+- [x] Statefil Widget
 
 
 
